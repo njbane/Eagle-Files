@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.1.1*%
+%TF.CreationDate,2018-08-04T18:42:35Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Njbane Njbane <njbane@umes.edu>*%
+%TJ.B_ID,Metvoc*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,50.272000*%
+%TJ.B_Size_Y,88.062000*%
+M02*
